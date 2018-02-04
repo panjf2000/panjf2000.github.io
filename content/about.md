@@ -5,4 +5,10 @@ draft = false
 +++
 
 {{< figure class="image main" src="/images/pic03.jpg" >}}
-Lorem ipsum dolor sit amet, consectetur et adipiscing elit. Praesent eleifend dignissim arcu, at eleifend sapien imperdiet ac. Aliquam erat volutpat. Praesent urna nisi, fringila lorem et vehicula lacinia quam. Integer sollicitudin mauris nec lorem luctus ultrices. Aliquam libero et malesuada fames ac ante ipsum primis in faucibus. Cras viverra ligula sit amet ex mollis mattis lorem ipsum dolor sit amet.
+生在潮汕，长在潮汕，平平静静生活，普普通通生长，偶有微澜，不提也罢。
+
+糊里糊涂去了武汉上大学，似懂非懂选了计算机专业。
+
+在北京、上海混迹过，如今在深圳做一只呆萌的程序猿，每天和产品经理斗智斗勇，读读书、看动漫、打网球、拍拍照、听听歌...
+
+伪文青，想当个自由职业者，或许以后能靠写写文字养活自己？谁知道呢？
