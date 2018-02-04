@@ -1,16 +1,56 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-	
-	<sitemap>
-	   	<loc>https://github.com/panjf2000/panjf2000.github.io/zh/sitemap.xml</loc>
-		
-	</sitemap>
-	
-	<sitemap>
-	   	<loc>https://github.com/panjf2000/panjf2000.github.io/en/sitemap.xml</loc>
-		
-	   	<lastmod>2017-03-02T11:59:27-05:00</lastmod>
-		
-	</sitemap>
-	
-</sitemapindex>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  
+  <url>
+    <loc>https://github.com/panjf2000/panjf2000.github.io/#intro.en</loc>
+    <lastmod>2017-03-02T10:54:38-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://github.com/panjf2000/panjf2000.github.io/#intro</loc>
+  </url>
+  
+  <url>
+    <loc>https://github.com/panjf2000/panjf2000.github.io/#work.en</loc>
+    <lastmod>2017-03-02T11:59:05-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://github.com/panjf2000/panjf2000.github.io/#work</loc>
+  </url>
+  
+  <url>
+    <loc>https://github.com/panjf2000/panjf2000.github.io/#about.en</loc>
+  </url>
+  
+  <url>
+    <loc>https://github.com/panjf2000/panjf2000.github.io/#about</loc>
+  </url>
+  
+  <url>
+    <loc>https://github.com/panjf2000/panjf2000.github.io/#contact.en</loc>
+    <lastmod>2017-03-02T11:59:27-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://github.com/panjf2000/panjf2000.github.io/#contact</loc>
+  </url>
+  
+  <url>
+    <loc>https://github.com/panjf2000/panjf2000.github.io/#</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://github.com/panjf2000/panjf2000.github.io/#</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://github.com/panjf2000/panjf2000.github.io/#</loc>
+    <lastmod>2017-03-02T10:54:38-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
