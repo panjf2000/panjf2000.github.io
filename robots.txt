@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: /sitemap.xml
+Sitemap: https://github.com/panjf2000/panjf2000.github.io/sitemap.xml
