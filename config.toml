@@ -26,7 +26,7 @@ googleAnalytics = "UA-123-45"
   author = "Andy Pan"
   description = '<!--[-->欲买桂花同载酒，终不似，少年游。<!--]-->'
 #  logo = "fa-diamond"
-  logoimage = "images/pjf.png"
+  logoimage = "images/pan.png"
   copyright = "All rights reserved - 2018"
 
 [[params.social]]
