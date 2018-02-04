@@ -12,8 +12,7 @@ googleAnalytics = "UA-123-45"
 [params]
   subtitle = "勒马听雪"
   author = "Andy Pan"
-  description = '<!--[-->A fully responsive site template designed by <a href="https://html5up.net">HTML5 UP</a> and released<!--]--><br />
-                <!--[-->for free under the <a href="https://html5up.net/license">Creative Commons</a> license.<!--]-->'
+  description = '<!--[-->欲买桂花同载酒，终不似，少年游。<!--]-->'
 #  logo = "fa-diamond"
   logoimage = "images/pjf.png"
   copyright = "All rights reserved - 2018"
@@ -80,5 +79,4 @@ googleAnalytics = "UA-123-45"
   weight = 2
   title = "Personal Website for Andy Pan"
 
-description = '<!--[-->A fully responsive site template designed by <a href="https://html5up.net">HTML5 UP</a> and released<!--]--><br />
-                <!--[-->for free under the <a href="https://html5up.net/license">Creative Commons</a> license.<!--]-->'
+description = '<!--[-->欲买桂花同载酒，终不似，少年游。<!--]--><br />'
