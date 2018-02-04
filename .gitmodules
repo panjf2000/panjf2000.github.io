@@ -1,0 +1,11 @@
+[submodule "themes/dimension"]
+	path = themes/dimension
+	url = https://github.com/sethmacleod/dimension.git
+[submodule "panjf2000.github.io"]
+	path = panjf2000.github.io
+	url = git@github.com:panjf2000/panjf2000.github.io.git
+	branch = master
+[submodule "public"]
+	path = public
+	url = git@github.com:panjf2000/panjf2000.github.io.git
+	branch = master
