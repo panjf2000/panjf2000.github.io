@@ -1,20 +1,20 @@
 baseurl = "https://github.com/panjf2000/panjf2000.github.io"
 #baseurl = ""
 theme = "dimension"
-defaultContentLanguage = "zh"
+#defaultContentLanguage = "zh"
+languageCode = "zh-cn"
+title = "勒马听雪，潘建锋的个人主页"
 enableRobotsTXT = true
 disableKinds=["RSS"]
 hasCJKLanguage = true 
 enableEmoji = true
 googleAnalytics = "UA-123-45"
-description = '<!--[-->欲买桂花同载酒，终不似，少年游。<!--]--><br />'
 
-[languages]
-[languages.zh]
-  languageCode = "zh-cn"
-  languageName = "Chinese"
-  weight = 1
-  title = "勒马听雪，潘建锋的个人主页"
+#[languages]
+#[languages.zh]
+#  languageCode = "zh-cn"
+#  languageName = "Chinese"
+#  weight = 1
 #[languages.en]
 #  languageCode = "en-us"
 #  languageName = "English"
@@ -78,3 +78,4 @@ description = '<!--[-->欲买桂花同载酒，终不似，少年游。<!--]--><
   medium = "tumblr"
   icon = "tumblr"
   link = "https://andy-pan-1573.tumblr.com/"
+
