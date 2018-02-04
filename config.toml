@@ -1,4 +1,5 @@
 baseurl = "https://github.com/panjf2000/panjf2000.github.io"
+#baseurl = ""
 theme = "dimension"
 defaultContentLanguage = "zh"
 enableRobotsTXT = true
