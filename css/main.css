@@ -541,15 +541,15 @@ ul {
         text-align: center;
         vertical-align: center;
         width: 5rem; }
+        ul.icons li a:hover {
+          background-color: rgba(255, 255, 255, 0.075); }
+        ul.icons li a:active {
+          background-color: rgba(255, 255, 255, 0.175); }
         ul.icons li a svg {
         display: inline-block;
         text-align: center;
         vertical-align: center;
         }
-        ul.icons li a:hover {
-          background-color: rgba(255, 255, 255, 0.075); }
-        ul.icons li a:active {
-          background-color: rgba(255, 255, 255, 0.175); }
   ul.actions {
     cursor: default;
     list-style: none;
