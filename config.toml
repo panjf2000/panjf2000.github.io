@@ -27,7 +27,7 @@ googleAnalytics = "UA-123-45"
   description = '<!--[-->大好河山可骑驴<!--]-->'
 #  logo = "fa-diamond"
   logoimage = "images/pan.png"
-  copyright = "All rights reserved - 2018"
+  copyright = "Powered by 潘建锋,All rights reserved - 2018"
 
 [[params.social]]
   medium = "知乎"
