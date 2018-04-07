@@ -30,6 +30,11 @@ googleAnalytics = "UA-123-45"
   copyright = "Powered by 潘建锋,All rights reserved - 2018"
 
 [[params.social]]
+  medium = "博客"
+  icon = "myblog"
+  link = "https://www.zhihu.com/people/andy_pan/activities"
+
+[[params.social]]
   medium = "知乎"
   icon = "zhihu"
   link = "https://www.zhihu.com/people/andy_pan/activities"
