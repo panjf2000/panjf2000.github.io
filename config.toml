@@ -32,7 +32,7 @@ googleAnalytics = "UA-123-45"
 [[params.social]]
   medium = "博客"
   icon = "myblog"
-  link = "https://www.zhihu.com/people/andy_pan/activities"
+  link = "http://118.126.91.74/"
 
 [[params.social]]
   medium = "知乎"
@@ -79,8 +79,8 @@ googleAnalytics = "UA-123-45"
   icon = "douban"
   link = "https://www.douban.com/people/114345322/"
 
-[[params.social]]
-  medium = "tumblr"
-  icon = "tumblr"
-  link = "https://andy-pan-1573.tumblr.com/"
+#[[params.social]]
+#  medium = "tumblr"
+#  icon = "tumblr"
+#  link = "https://andy-pan-1573.tumblr.com/"
 
