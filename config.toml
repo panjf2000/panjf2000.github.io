@@ -32,7 +32,7 @@ googleAnalytics = "UA-123-45"
 [[params.social]]
   medium = "博客"
   icon = "myblog"
-  link = "http://118.126.91.74/"
+  link = "http://blog.taohuawu.club"
 
 [[params.social]]
   medium = "知乎"
