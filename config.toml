@@ -47,7 +47,7 @@ googleAnalytics = "UA-123-45"
 [[params.social]]
   medium = "开源中国"
   icon = "osc"
-  link = "https://my.oschina.net/osandy/blog"
+  link = "https://my.oschina.net/osandy"
 
 [[params.social]]
   medium = "github"
