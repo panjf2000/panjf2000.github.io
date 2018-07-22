@@ -24,7 +24,7 @@ googleAnalytics = "UA-123-45"
 [params]
   subtitle = "勒马听雪"
   author = "Andy Pan"
-  description = '<!--[-->大好河山可骑驴<!--]-->'
+  description = '<!--[-->勒马听雪金刀错<!--]-->'
 #  logo = "fa-diamond"
   logoimage = "images/pan.png"
   copyright = "Powered by 潘建锋,All rights reserved - 2018"
