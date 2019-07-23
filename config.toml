@@ -3,7 +3,7 @@ baseurl = "https://github.com/panjf2000/panjf2000.github.io"
 theme = "dimension"
 #defaultContentLanguage = "zh"
 languageCode = "zh-cn"
-title = "春水碧于天 画船听雨眠"
+title = "潘建锋 | Mind Seeker"
 enableRobotsTXT = true
 disableKinds=["RSS"]
 hasCJKLanguage = true 
@@ -22,22 +22,23 @@ googleAnalytics = "UA-123-45"
 #  title = "Personal Website for Andy Pan"
 
 [params]
-  subtitle = "勒马听雪"
+  subtitle = ""
   author = "Andy Pan"
-  description = '<!--[-->勒马听雪金刀错<!--]-->'
+  description = '<!--[--><We laughed and kept saying "see u soon",
+but inside we both knew we'd never see each other again.!--]-->'
 #  logo = "fa-diamond"
   logoimage = "images/pan.png"
-  copyright = "Powered by 潘建锋,All rights reserved - 2018"
+  copyright = "Powered by 潘建锋,All rights reserved - 2019"
 
 [[params.social]]
   medium = "博客"
   icon = "myblog"
-  link = "http://blog.taohuawu.club"
+  link = "https://taohuawu.club"
 
 [[params.social]]
   medium = "知乎"
   icon = "zhihu"
-  link = "https://www.zhihu.com/people/andy_pan/activities"
+  link = "https://www.zhihu.com/people/andy_pan"
 
 [[params.social]]
   medium = "微博"
@@ -67,7 +68,7 @@ googleAnalytics = "UA-123-45"
 [[params.social]]
   medium = "facebook"
   icon = "facebook"
-  link = "https://www.facebook.com/galaxy.in.eyes"
+  link = "https://www.facebook.com/andy.pan.jianfeng"
   
 [[params.social]]
   medium = "twitter"
