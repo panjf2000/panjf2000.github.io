@@ -3,7 +3,7 @@ baseurl = "https://github.com/panjf2000/panjf2000.github.io"
 theme = "dimension"
 #defaultContentLanguage = "zh"
 languageCode = "zh-cn"
-title = "潘建锋 | Mind Seeker"
+title = "潘建锋 | 一剑破万法"
 enableRobotsTXT = true
 disableKinds=["RSS"]
 hasCJKLanguage = true 
@@ -28,7 +28,7 @@ googleAnalytics = "UA-123-45"
 but inside we both knew we would never see each other again.!--]-->'
 #  logo = "fa-diamond"
   logoimage = "images/pan.png"
-  copyright = "Powered by 潘建锋,All rights reserved - 2019"
+  copyright = "Powered by 潘建锋, All rights reserved - 2020"
 
 [[params.social]]
   medium = "博客"
