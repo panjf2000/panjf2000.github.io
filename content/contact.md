@@ -1,5 +1,5 @@
 +++
-title = "约不约？"
+title = "约一波"
 weight = 40
 draft = false
 +++
