@@ -24,7 +24,7 @@ draft = false
 
 # 我长啥样？
 
-![IMG0914.JPG](https://img.hacpai.com/file/2019/11/IMG0914-4132ee14.JPG)
+![](https://raw.githubusercontent.com/panjf2000/illustrations/master/me/me.jpg)
 
 # 点了哪些技能树？
 
@@ -35,10 +35,12 @@ draft = false
 - Python 爱好者，Scrapy 爬虫，Web 框架：tornado、flask
 - Java&Scala，Hadoop&Spark，大数据略懂一二
 - ML 学习中...，TensorFlow 新手司机
+- 专注于高并发、网络、系统架构
+- 关注云原生、微服务、分布式、数学
 
 # 微信公众号？
 
-<img width="800" src="https://img.hacpai.com/file/2019/12/qrcode-182e90f5.png" />
+<img width="700" src="https://raw.githubusercontent.com/panjf2000/illustrations/master/social/subscription-green.png" />
 
 ## 想约？
 
@@ -59,13 +61,3 @@ draft = false
 
 > 休对故人思故国，且将新火试新茶。诗酒趁年华。
 
-# 晒猫
-
-<div align="center"><img width="700" src="https://img.hacpai.com/file/2019/11/IMG13812-48a70873.JPG" /></div>
-<div align="center"><img width="700" src="https://img.hacpai.com/file/2019/11/IMG13822-5c0429b9.JPG" /></div>
-<div align="center"><img width="700" src="https://img.hacpai.com/file/2019/11/IMG14012-0865255d.JPG" /></div>
-<div align="center"><img width="700" src="https://img.hacpai.com/file/2019/11/IMG1402-c49e139d.JPG" /></div>
-
-<div align="center"><img width="700" src="https://img.hacpai.com/file/2019/11/IMG2835-2d720d8d.JPG" /></div>
-<div align="center"><img width="700" src="https://img.hacpai.com/file/2019/11/IMG26712-2d45f564.JPG" /></div>
-<div align="center"><img width="700" src="https://img.hacpai.com/file/2019/11/IMG26722-41ae8d40.JPG" /></div>
