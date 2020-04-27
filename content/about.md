@@ -38,7 +38,7 @@ draft = false
 
 # 微信公众号？
 
-![](https://img.hacpai.com/file/2019/12/qrcode-182e90f5.png)
+<img width="800" src="https://img.hacpai.com/file/2019/12/qrcode-182e90f5.png" />
 
 ## 想约？
 
@@ -49,7 +49,7 @@ draft = false
 
 ## 微信
 
-<img src="https://raw.githubusercontent.com/panjf2000/illustrations/master/social/WeChat.JPG" width="800" align="middle"/>
+<img src="https://raw.githubusercontent.com/panjf2000/illustrations/master/social/WeChat.JPG" width="400" align="middle"/>
 
 有兴趣和博主交流编程、动漫、读书等等方面的同学，欢迎加我微信好友~~ （加好友时请注明来源和来意）
 
