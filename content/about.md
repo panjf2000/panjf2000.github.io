@@ -4,6 +4,8 @@ weight = 30
 draft = false
 +++
 
+{{< figure class="image main" src="/images/pic03.jpg" >}}
+
 ## 何许人也？
 
 大名潘建锋，道上的朋友给面子的，一般唤我一声潘少，不给面子的，那我也没办法，爱叫啥叫啥吧！
