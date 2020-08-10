@@ -1,9 +1,8 @@
-baseurl = "https://github.com/panjf2000/panjf2000.github.io"
-#baseurl = ""
+baseurl = "https://andypan.site"
 theme = "dimension"
 #defaultContentLanguage = "zh"
-languageCode = "zh-cn"
-title = "潘建锋 | 一剑破万法"
+languageCode = "en-us"
+title = "Andy Pan | My Homepage"
 enableRobotsTXT = true
 disableKinds=["RSS"]
 hasCJKLanguage = true 
@@ -24,59 +23,58 @@ googleAnalytics = "UA-123-45"
 [params]
   subtitle = ""
   author = "Andy Pan"
-  description = '<!--[--><We laughed and kept saying "see u soon",
-but inside we both knew we would never see each other again.!--]-->'
+  description = 'Live fast. Die young. Be wild. Have fun.'
 #  logo = "fa-diamond"
   logoimage = "images/avatar.png"
-  copyright = "Powered by 潘建锋, All rights reserved - 2020"
+  copyright = "Powered by Andy Pan, All rights reserved - 2020"
+
+#[[params.social]]
+#  medium = "Blog"
+#  icon = "myblog"
+#  link = "https://taohuawu.club"
 
 [[params.social]]
-  medium = "博客"
-  icon = "myblog"
-  link = "https://taohuawu.club"
-
-[[params.social]]
-  medium = "知乎"
+  medium = "Zhihu"
   icon = "zhihu"
   link = "https://www.zhihu.com/people/andy_pan"
 
 [[params.social]]
-  medium = "微博"
+  medium = "Weibo"
   icon = "weibo"
   link = "https://weibo.com/Matrigram"
 
 [[params.social]]
-  medium = "开源中国"
+  medium = "OS China"
   icon = "osc"
   link = "https://my.oschina.net/osandy"
 
 [[params.social]]
-  medium = "github"
+  medium = "Github"
   icon = "github"
   link = "https://github.com/panjf2000"
 
 [[params.social]]
-  medium = "linkedin"
+  medium = "Linkedin"
   icon = "linkedin"
   link = "http://www.linkedin.com/in/andy-pan-7b1227115/"
 
 [[params.social]]
-  medium = "instagram"
+  medium = "Instagram"
   icon = "instagram"
   link = "https://www.instagram.com/panjf2000/"
 
 [[params.social]]
-  medium = "facebook"
+  medium = "Facebook"
   icon = "facebook"
   link = "https://www.facebook.com/andy.pan.jianfeng"
   
 [[params.social]]
-  medium = "twitter"
+  medium = "Twitter"
   icon = "twitter"
   link = "https://twitter.com/_andy_pan"
 
 [[params.social]]
-  medium = "豆瓣"
+  medium = "Douban"
   icon = "douban"
   link = "https://www.douban.com/people/114345322/"
 

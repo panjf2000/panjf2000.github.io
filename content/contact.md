@@ -1,7 +1,8 @@
 +++
-title = "约一波"
-weight = 40
+title = "Contact"
+weight = 30
 draft = false
+
 +++
 
 <form method="post" action="#">
