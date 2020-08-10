@@ -10,4 +10,4 @@ draft = false
 
 If you have ever benefited from my software or articles and would like to donate, you could do so in the following ways:
 
-{{< figure class="image main" src="/images/payment.png" >}}
+<a target="_blank" href="https://www.paypal.me/R136a1X">{{< figure class="image main" src="/images/payment.png" >}}</a>
