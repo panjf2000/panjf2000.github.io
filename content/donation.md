@@ -10,4 +10,4 @@ draft = false
 
 If you have ever benefited from my software or articles and would like to donate, you could do so in the following ways:
 
-![](/images/payment.png)
+{{< figure class="image main" src="/images/payment.png" >}}

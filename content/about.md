@@ -24,7 +24,7 @@ I'm currently a front-line programmer based in South China, mostly writing serve
 
 ## What do I look like?
 
-![](/images/me.jpg)
+{{< figure class="image main" src="/images/me.jpg" >}}
 
 ## Where to reach out to me?
 
