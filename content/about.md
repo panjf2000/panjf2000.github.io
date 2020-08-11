@@ -30,6 +30,6 @@ I'm currently a front-line programmer based in South China, mostly writing serve
 
 ## Where to reach out to me?
 
-- [Send me a mail](mailto:panjf2000@andypan.site)
+- [Send me an email](mailto:panjf2000@andypan.site)
 - [Issue me on Github](https://github.com/panjf2000)
 - [Follow me on Twitter](https://twitter.com/_andy_pan)
