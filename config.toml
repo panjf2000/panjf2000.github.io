@@ -39,11 +39,6 @@ googleAnalytics = "UA-123-45"
   link = "https://github.com/panjf2000"
 
 [[params.social]]
-  medium = "Medium"
-  icon = "medium"
-  link = "https://medium.com/@panjf2000"
-
-[[params.social]]
   medium = "Twitter"
   icon = "twitter"
   link = "https://twitter.com/_andy_pan"
