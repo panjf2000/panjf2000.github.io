@@ -31,6 +31,5 @@ I'm currently a front-line programmer based in South China, mostly writing serve
 ## Where to reach out to me?
 
 - [Send me a mail](mailto:panjf2000@andypan.site)
-- [panjf2000@Github](https://github.com/panjf2000)
-- [潘少@Zhihu](https://www.zhihu.com/people/andy_pan)
-- [潘少online@Weibo](https://weibo.com/Matrigram)
+- [Issue me on Github](https://github.com/panjf2000)
+- [Follow me on Twitter](https://twitter.com/_andy_pan)
