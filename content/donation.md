@@ -5,7 +5,7 @@ draft = false
 
 +++
 
-{{< figure class="image main" src="/images/pic02.jpg" >}}
+{{< figure class="image main" src="/images/pic03.jpg" >}}
 
 
 If you have ever benefited from my open-source software/technological articles and would like to buy me a cup of coffee, you can do so in the following ways:

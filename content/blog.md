@@ -5,6 +5,6 @@ draft = false
 
 +++
 
-{{< figure class="image main" src="/images/pic01.png" >}}
+{{< figure class="image main" src="/images/pic02.jpg" >}}
 
 I occasionally post something on [***my blog***](https://taohuawu.club/), technological articles, reading notes, informal essays, etc., mostly written in Chinese, my native language.
