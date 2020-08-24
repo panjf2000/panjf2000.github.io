@@ -16,9 +16,9 @@ Hi there, I'm Andy Pan in English while `潘建锋` is how my Chinese name spell
 - 🌏 Open-source software developer
 - ⚡ Go, Java, Python, Rust ...
 
-I started my programming career when I was in college by pitching into `C` initially. Later on,  I successively engaged in `ASP.NET/C#`, `PHP/HTML/CSS`, `Android/Java` and `Python` and ultimately, `Go` stood out as my prime programming language and stack.
+I started my programming career when I was in college by pitching into `C` initially. Later on,  I successively engaged in `Qt/C++`, `ASP.NET/C#`, `PHP/JS/HTML/CSS`, `Android/Java`, `Web/Python` and ultimately, `Go` stood out as my prime programming language and technology stack. Besides, I've recently become increasingly interested in `Rust` and have been studying it in depth.
 
-I've created serveral [open-source software](https://github.com/panjf2000), also made [minor contributions](https://taohuawu.club/my-github-repos) to a few well-known open-source projects.
+I've created serveral [open-source software](https://taohuawu.club/my-github-repos), also made [minor contributions](https://github.com/panjf2000) to a few well-known open-source projects.
 
 I'm currently a front-line programmer based in South China, mostly writing server-side code, and by the way, also a modern agnostic.
 
