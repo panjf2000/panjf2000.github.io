@@ -43,10 +43,10 @@ googleAnalytics = "UA-123-45"
   icon = "twitter"
   link = "https://twitter.com/_andy_pan"
 
-[[params.social]]
-  medium = "Linkedin"
-  icon = "linkedin"
-  link = "http://www.linkedin.com/in/andy-pan-7b1227115/"
+#[[params.social]]
+#  medium = "Linkedin"
+#  icon = "linkedin"
+#  link = "http://www.linkedin.com/in/andy-pan-7b1227115/"
 
 [[params.social]]
   medium = "Instagram"
