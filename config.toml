@@ -60,10 +60,10 @@ googleAnalytics = "UA-123-45"
 
 [[params.social]]
   medium = "OS China"
-  icon = "osc"
+  icon = "oschina"
   link = "https://my.oschina.net/osandy"
 
 [[params.social]]
   medium = "SegmentFault"
-  icon = "segmentfault"
+  icon = "sf"
   link = "https://segmentfault.com/blog/panjf2000"
