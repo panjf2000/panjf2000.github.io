@@ -1,4 +1,4 @@
-baseurl = "https://andypan.site"
+baseurl = "https://andypan.me"
 theme = "dimension"
 #defaultContentLanguage = "zh"
 languageCode = "en-us"
@@ -28,11 +28,6 @@ googleAnalytics = "UA-123-45"
   logoimage = "images/avatar.png"
   copyright = "Powered by Andy Pan, All rights reserved @ 2020"
 
-#[[params.social]]
-#  medium = "Blog"
-#  icon = "myblog"
-#  link = "https://taohuawu.club"
-
 [[params.social]]
   medium = "Github"
   icon = "github"
@@ -42,11 +37,6 @@ googleAnalytics = "UA-123-45"
   medium = "Twitter"
   icon = "twitter"
   link = "https://twitter.com/_andy_pan"
-
-#[[params.social]]
-#  medium = "Linkedin"
-#  icon = "linkedin"
-#  link = "http://www.linkedin.com/in/andy-pan-7b1227115/"
 
 [[params.social]]
   medium = "Instagram"
@@ -74,6 +64,6 @@ googleAnalytics = "UA-123-45"
   link = "https://my.oschina.net/osandy"
 
 [[params.social]]
-  medium = "Douban"
-  icon = "douban"
-  link = "https://www.douban.com/people/114345322/"
+  medium = "SegmentFault"
+  icon = "segmentfault"
+  link = "https://segmentfault.com/u/panjf2000"
