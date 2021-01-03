@@ -1,0 +1,79 @@
+{
+  "id": "563709",
+  "name": "social icon",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "12703761",
+      "name": "oschina",
+      "font_class": "oschina",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "11102077",
+      "name": "instagram",
+      "font_class": "instagram",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "5758059",
+      "name": "segmentfault",
+      "font_class": "sf",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "3507142",
+      "name": "tumblr",
+      "font_class": "tumblr",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "3506933",
+      "name": "github",
+      "font_class": "github",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "1238426",
+      "name": "social-linkedin",
+      "font_class": "linkedin",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    },
+    {
+      "icon_id": "1242251",
+      "name": "zhihu",
+      "font_class": "zhihu",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "3176624",
+      "name": "Facebook",
+      "font_class": "facebook",
+      "unicode": "e9fd",
+      "unicode_decimal": 59901
+    },
+    {
+      "icon_id": "3176853",
+      "name": "Twitter",
+      "font_class": "twitter",
+      "unicode": "ea3f",
+      "unicode_decimal": 59967
+    },
+    {
+      "icon_id": "3506877",
+      "name": "weibo",
+      "font_class": "weibo",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    }
+  ]
+}
