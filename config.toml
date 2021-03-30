@@ -26,7 +26,7 @@ googleAnalytics = "UA-123-45"
   description = 'Live fast. Die young. Be wild. Have fun.'
 #  logo = "fa-diamond"
   logoimage = "images/avatar.png"
-  copyright = "Powered by Andy Pan, All rights reserved @ 2020"
+  copyright = "Powered by Andy Pan, All rights reserved @ 2021"
 
 [[params.social]]
   medium = "Github"
@@ -57,11 +57,6 @@ googleAnalytics = "UA-123-45"
   medium = "Weibo"
   icon = "weibo"
   link = "https://weibo.com/Matrigram"
-
-[[params.social]]
-  medium = "OS China"
-  icon = "oschina"
-  link = "https://my.oschina.net/osandy"
 
 [[params.social]]
   medium = "SegmentFault"
