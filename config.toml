@@ -26,7 +26,7 @@ googleAnalytics = "UA-123-45"
   description = 'Live fast. Die young. Be wild. Have fun.'
 #  logo = "fa-diamond"
   logoimage = "images/avatar.png"
-  copyright = "Powered by Andy Pan, All rights reserved @ 2021"
+  copyright = "Powered by Andy Pan, All rights reserved @ 2018-present"
 
 [[params.social]]
   medium = "Github"
